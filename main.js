@@ -5,7 +5,7 @@ $(function () {
 	$('.menu ul.menuLevel1 a.menuVisible:hover, .menu ul.menuLevel2 a.menuVisible:hover')
 	$('.menuVisible').css('border-radius', '0px');
 	$('.menuPosition').css('background-image', 'url(https://cdn.rawgit.com/sachacohenfr/shorlgead/master/bg-menu.png)');
-	$('head').append('<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/sachacohenfr/shorlgead/master/style.css">');
+	$('head').append('<link rel="stylesheet" type="text/css" href="https://rawgit.com/sachacohenfr/shorlgead/master/style.css">');
 	$('head').append("<link href=//fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>");
 	
 });
