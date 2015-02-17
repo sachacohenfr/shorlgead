@@ -8,5 +8,6 @@ $(function () {
 	$('.menuPosition').css('background-image', 'url(https://cdn.rawgit.com/sachacohenfr/shorlgead/master/bg-menu.png)');
 	$('head').append('<link rel="stylesheet" type="text/css" href="https://rawgit.com/sachacohenfr/shorlgead/master/style.css">');
 	$('head').append("<link href=//fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>");
+	$( "<div id='SoleadFooter'>TEST</div>" ).insertAfter( ".globalTable" );
 	
 });
