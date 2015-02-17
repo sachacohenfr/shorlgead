@@ -9,6 +9,6 @@ td.header {background-image : url(https://cdn.rawgit.com/sachacohenfr/shorlgead/
 .mainContent p {font-size: 15px; letter-spacing: -0.5px;}
 #rever {width: 807px; margin-left: 5px}
 #BonjourImg {left: 358.5px;position: relative;}
-#SoleadFooter {height: 70px;}
+#SoleadFooter {height: 70px; background-color: #FFFFFF; margin-top: 20px;}
 #SoleadFooter div {height: 70px;width: 1026px; margin-left: auto; margin-right: auto;}
 #SoleadFooter img {float: right;}
