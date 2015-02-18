@@ -10,6 +10,6 @@ $(function () {
 	$('.menuPosition').css('background-image', 'url(https://rawgit.com/sachacohenfr/shorlgead/master/bg-menu.png)');
 	$('head').append('<link rel="stylesheet" type="text/css" href="https://rawgit.com/sachacohenfr/shorlgead/master/style.css">');
 	$('head').append("<link href=//fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>");
-	$( "<div id='SoleadFooter'><div><img src='https://rawgit.com/sachacohenfr/shorlgead/master/footer.png' alt='Logo' /></div></div>" ).insertAfter( ".globalTable" );
+	$( "<div id='SoleadFooter'><div><img src='https://rawgit.com/sachacohenfr/shorlgead/master/cegibat.jpg' id='cegibat' alt='Logo' /><img src='https://rawgit.com/sachacohenfr/shorlgead/master/grdf.jpg' id='grdf' alt='Logo' /></div></div>" ).insertAfter( ".globalTable" );
 	
 });
