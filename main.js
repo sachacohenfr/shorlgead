@@ -1,4 +1,5 @@
 $(function () {
+	$("meta[content='IE=EmulateIE7']").remove();
 	$( "<img src='https://cdn.rawgit.com/sachacohenfr/shorlgead/master/postit.png' id='rever' />" ).insertAfter( ".mainContent" );
 	$('h1:contains("ACCUEIL")').css('opacity', '0');
 	$('.bonjour').replaceWith('<img src="https://cdn.rawgit.com/sachacohenfr/shorlgead/master/bonjour.png" id="BonjourImg" alt="Bonjour," />');
